@@ -10,7 +10,7 @@ module.exports = {
     prefix: "",
     darkTheme: "dark",
   },
-  content: ["./src/**/*.{html,js}", './src/components/**/*.{html,js}', './src/app.js'
+  content: ["./src/**/*.{html,js}", './src/components/**/*.{html,js}', './src/app.js', './public/index.html'
 ],
   theme: {
     extend: {},
